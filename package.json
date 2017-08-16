@@ -1,0 +1,15 @@
+{
+  "name": "lineChatBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Joe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "linebot": "^1.3.0"
+  }
+}
